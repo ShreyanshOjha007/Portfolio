@@ -1,0 +1,54 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm/
+
+# Next.js specific (if you're using it)
+.next/
+out/
+
+# Parcel
+.cache/
+
+# Svelte
+.svelte-kit/
+
+# Mac system files
+*.DS_Store
+
